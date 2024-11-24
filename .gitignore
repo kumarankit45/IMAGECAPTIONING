@@ -1,0 +1,15 @@
+.DS_Store
+.vscode
+literature/*.pdf
+.ipynb_checkpoints
+__pycache__
+Instructions.md
+4_Zip Your Project Files and Submit.ipynb
+workspace_utils.py
+*.pkl
+models/*
+training_log.txt
+2_Training.html
+3_Inference.html
+filelist.txt
+project2.zip
